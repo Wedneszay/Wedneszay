@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Mazaya! 👋
 
-<!--
-**Wedneszay/Wedneszay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Information Systems Student | Tech Enthusiast | Creative Coder
 
-Here are some ideas to get you started:
+I am an Information Systems student at **UPN "Veteran" Yogyakarta** with a passion for building functional and aesthetically pleasing digital solutions. I enjoy exploring the intersection between structured logic (Data Structures & Math) and creative design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 My Tech Stack
+
+### 💻 Languages & Frameworks
+*   **Languages:** C/C++, HTML5, CSS3, JavaScript
+*   **Frameworks/Libraries:** Laravel, Bootstrap
+*   **Other:** Discrete Mathematics, Database Life Cycle (DBLC)
+
+### 🎨 Design & Creative
+*   UI/UX Design for Web & Mobile Applications
+*   AI-Assisted Visual Generation & Graphic Design
+*   Content Production & Scripting
+
+---
+
+## 🚀 Projects I've Been Working On
+
+*   **VoltVibe:** A bookstore management system built with C, featuring linked list management and efficient search operations.
+*   **Bakery CRUD:** A web-based application designed for streamlined inventory and order management.
+*   **Split Bill UI:** A user-centered interface design focused on simplifying expenses for students.
+*   **P2MW Business Proposal:** Currently developing an entrepreneurial project for the Student Entrepreneurship Development Program.
+
+---
+
+## 📈 My Learning Journey
+
+- 🧪 Currently deepening my knowledge in **Data Structures** and **Backend Development**.
+- 🏆 Participant in **Samsung Innovation Campus Batch 7** and **RevoU Coding Camp**.
+- 🏃 Outside of coding, I'm into aerobic training (jogging/cycling) and exploring the culinary gems of Yogyakarta.
+
+---
+
+## 📫 How to reach me
+
+*   **LinkedIn:** [Your LinkedIn Profile Link]
+*   **Email:** [Your Email Address]
+*   **Instagram:** [Your Instagram Link]
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
